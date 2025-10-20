@@ -1,0 +1,8 @@
+# system/editor noise
+.DS_Store
+Thumbs.db
+
+# secrets and keys (just in case)
+*.pem
+*.key
+.env
